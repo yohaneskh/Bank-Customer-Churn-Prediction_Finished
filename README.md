@@ -2,7 +2,7 @@
 
 This repository contains a complete notebook for predicting bank customer churn using a **Supervised Machine Learning** approach. The notebook walks through the process from data loading to final model evaluation, with a clear and structured pipeline including EDA, preprocessing, and modeling.
 
-**A. Objective**
+A. **Objective**
 
 The main goal of this project is to build and evaluate a classification model that can predict whether a customer is likely to churn based on their profile and banking behavior.
 
