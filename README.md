@@ -2,11 +2,11 @@
 
 This repository contains a complete notebook for predicting bank customer churn using a **Supervised Machine Learning** approach. The notebook walks through the process from data loading to final model evaluation, with a clear and structured pipeline including EDA, preprocessing, and modeling.
 
-A. **Objective**
+### A. **Objective**
 
 The main goal of this project is to build and evaluate a classification model that can predict whether a customer is likely to churn based on their profile and banking behavior.
 
-B. **DATASET**
+### B. **DATASET**
 
 i. The dataset is sourced from Kaggle and contains 10,000 customer records from a European bank.
 
@@ -16,7 +16,7 @@ iii. Target variable: Exited (1 = churned, 0 = retained)
 
 iv. The raw CSV file has been stored in this repository and loaded via GitHub’s raw URL: **https://raw.githubusercontent.com/yohaneskh/Bank-Customer-Churn-Prediction_Finished/refs/heads/main/Churn_Modelling.csv**
 
-C. **Steps Performed in the Notebook**
+### C. **Steps Performed in the Notebook**
 
 1. Importing required libraries.
 
@@ -47,7 +47,7 @@ C. **Steps Performed in the Notebook**
    
 9. ROC AUC evaluation.
 
-D. **Machine Learning Techniques Used**
+### D. **Machine Learning Techniques Used**
 
 i. XGBoost Classifier (primary model).
 
@@ -59,7 +59,7 @@ iv. OneHotEncoding and StandardScaler for data preprocessing.
 
 v. Metrics: Recall, F1-score, Precision, ROC-AUC.
 
-E. **Evaluation Metrics Summary**
+### E. **Evaluation Metrics Summary**
 
 The models are evaluated using:
 
@@ -69,11 +69,11 @@ ii. Classification report.
 
 iii. ROC curve and AUC score.
 
-F. **Environment**
+### F. **Environment**
 
 This notebook was developed and tested on **Kaggle Notebook**, for environments where dependencies are not pre-installed, use the optional !pip install commands at the top of the notebook.
 
-# **AUTHOR**
+## **AUTHOR**
 
 **Yohanes Kurniawan Hertanto**
 
