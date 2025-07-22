@@ -26,7 +26,9 @@ C. **Steps Performed in the Notebook**
 5. Data preprocessing.
 - One-hot encoding for Geography and Gender.
 - Feature scaling with StandardScaler.
+  
 6. Train-Test split.
+  
 7. Model building & evaluation.
 - Baseline vs. Tuned Model.
 - Using SMOTE for imbalanced data handling.
@@ -51,6 +53,9 @@ F. **Environment**
 This notebook was developed and tested on **Kaggle Notebook**, for environments where dependencies are not pre-installed, use the optional !pip install commands at the top of the notebook.
 
 **Author**
+
 **Yohanes Kurniawan Hertanto**
+
 An aspiring Data Analyst with interest in Machine Learning
+
 https://www.kaggle.com/yohaneskhyekaha
