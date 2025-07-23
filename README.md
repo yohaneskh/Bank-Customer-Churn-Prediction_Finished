@@ -8,7 +8,8 @@ The main goal of this project is to build and evaluate a classification model th
 
 ### B. **DATASET**
 
-i. The dataset is sourced from Kaggle and contains 10,000 customer records from a European bank.
+i. The dataset is sourced from Kaggle and contains 10,000 customer records from a European bank. 
+The link to the original dataset on Kaggle is https://www.kaggle.com/datasets/shubhammeshram579/bank-customer-churn-prediction.
 
 ii. It includes features such as geography, gender, credit score, balance, tenure, estimated salary, etc.
 
