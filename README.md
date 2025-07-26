@@ -2,9 +2,13 @@
 
 This repository contains a complete notebook for predicting bank customer churn using a **Supervised Machine Learning** approach. The notebook walks through the process from data loading to final model evaluation, with a clear and structured pipeline including EDA, preprocessing, and modeling.
 
+---
+
 ### A. Objective
 
 The main goal of this project is to build and evaluate a classification model that can predict whether a customer is likely to churn based on their profile and banking behavior.
+
+---
 
 ### B. Dataset Information
 
@@ -16,6 +20,8 @@ ii. It includes features such as geography, gender, credit score, balance, tenur
 iii. Target variable: Exited (1 = churned, 0 = retained)
 
 iv. The raw CSV file has been stored in this repository and loaded via GitHub’s raw URL: **https://raw.githubusercontent.com/yohaneskh/Bank-Customer-Churn-Prediction_Finished/refs/heads/main/Churn_Modelling.csv**
+
+---
 
 ### C. Steps Performed in the Notebook
 
@@ -60,6 +66,8 @@ iv. OneHotEncoding and StandardScaler for data preprocessing.
 
 v. Metrics: Recall, F1-score, Precision, ROC-AUC.
 
+---
+
 ### E. Evaluation Metrics Summary
 
 The models are evaluated using:
@@ -70,9 +78,13 @@ ii. Classification report.
 
 iii. ROC curve and AUC score.
 
+---
+
 ### F. Environment
 
 This notebook was developed and tested on **Kaggle Notebook**, for environments where dependencies are not pre-installed, use the optional !pip install commands at the top of the notebook.
+
+---
 
 ## AUTHOR
 
