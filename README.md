@@ -54,6 +54,8 @@ iv. The raw CSV file has been stored in this repository and loaded via GitHub’
    
 9. ROC AUC evaluation.
 
+---
+
 ### D. Machine Learning Techniques Used
 
 i. XGBoost Classifier (primary model).
